@@ -1,4 +1,5 @@
 🍎 Fruit Detection and Color Analysis using Machine Learning
+
 📌 Overview
 This project focuses on automatic fruit classification based on color analysis using Machine Learning (ML). The system extracts RGB color features from fruit images, processes the data, and applies a K-Nearest Neighbors (KNN) classifier to categorize different fruits. The goal is to build a robust and efficient fruit classification model that can be further enhanced for real-time fruit detection and advanced classification techniques.
 
