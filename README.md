@@ -10,6 +10,7 @@ This project focuses on automatic fruit classification based on color analysis u
 ✅ Analyze model performance using visualizations and statistical metrics.
 ✅ Explore real-world applications in agriculture, food industries, and automation.
 
+
 📂 Project Workflow
 1️⃣ Feature Extraction
 RGB Values: Extracts average Red, Green, and Blue (RGB) values from fruit images.
@@ -25,6 +26,7 @@ Why KNN?
 ✅ Simple yet effective for color-based classification.
 ✅ Works well with numerical RGB data.
 ✅ Easily adjustable via hyperparameter tuning.
+
 Implementation Steps:
 Initialize KNN with n_neighbors (e.g., 5).
 Train the model using labeled fruit images.
